@@ -1,0 +1,177 @@
+Sdk version: 30
+Device: generic_x86
+Model: Android SDK built for x86
+Product: sdk_phone_x86
+OS version: 11
+Android ID: 47337fc6553c13b9
+User: android-build
+Brand:Android
+Display: sdk_phone_x86-userdebug 11 RSR1.210210.001.A1 7193139 dev-keys
+Hardware: ranchu
+Bootloader: unknown
+ID: RSR1.210210.001.A1
+Host:abfarm-east4-071
+Serial:unknown
+Manufacturer:unknown
+Fingerprint:Android/sdk_phone_x86/generic_x86:11/RSR1.210210.001.A1/7193139:userdebug/dev-keys
+build date given in MS since unix epoch: 1615239327000
+Board: goldfish_x86
+CPU ABI: x86
+Owner Info:
+    Name: hosamhegly@gmail.com Type: com.google
+    Name: weponsofshit@gmail.com Type: com.google
+    Name: hosamhegleh@gmail.com Type: com.google
+Contacts:
+    Name: Ano  Phone number: 053-927-6984
+    Name: Ano  Phone number: 053-927-6984
+    Name: Bder  Phone number: 054-694-4658
+    Name: Bder  Phone number: 054-694-4658
+    Name: Bobo  Phone number: 050-424-1964
+    Name: Bobo  Phone number: 050-424-1964
+    Name: Dddd  Phone number: 052-948-9146
+    Name: Dddd  Phone number: 052-948-9146
+    Name: G Watch  Phone number: 050-440-2577
+    Name: G Watch  Phone number: 050-440-2577
+    Name: Galaxy Watch  Phone number: 053-533-0040
+    Name: Galaxy Watch  Phone number: 053-533-0040
+    Name: Lj  Phone number: 054-979-1189
+    Name: Lj  Phone number: 054-979-1189
+    Name: Majd Rabi  Phone number: +972505357333
+    Name: Majd Rabi  Phone number: +972505357333
+    Name: Mohanad  Phone number: +972526856819
+    Name: Mohanad  Phone number: +972526856819
+    Name: Rana  Phone number: 055-691-5270
+    Name: Rana  Phone number: 055-691-5270
+    Name: Waseem Shiekh Yousef  Phone number: 054-247-0329
+    Name: Waseem Shiekh Yousef  Phone number: 054-247-0329
+    Name: Yaman Arar  Phone number: +972535461503
+    Name: Yaman Arar  Phone number: +972535461503
+    Name: אחמד אבו דייב  Phone number: +972549941179
+    Name: אחמד אבו דייב  Phone number: +972549941179
+    Name: אסיייייק  Phone number: 052-482-4331
+    Name: אסיייייק  Phone number: 052-482-4331
+    Name: ארקאדי  Phone number: +972546407773
+    Name: ארקאדי  Phone number: +972546407773
+    Name: בוהיסה אבו חגלה  Phone number: +972525703588
+    Name: בוהיסה אבו חגלה  Phone number: +972525703588
+    Name: חסאם טהה  Phone number: +972544673884
+    Name: חסאם טהה  Phone number: +972544673884
+    Name: ליאור  Phone number: +972507939383
+    Name: ליאור  Phone number: +972507939383
+    Name: מחמד מחאגנה  Phone number: 050-905-7577
+    Name: מחמד מחאגנה  Phone number: 050-905-7577
+    Name: פיצה  Phone number: +972527550553
+    Name: פיצה  Phone number: +972527550553
+    Name: קופת חולים  Phone number: +97239124300
+    Name: קופת חולים  Phone number: +97239124300
+    Name: רים  Phone number: +972559391239
+    Name: רים  Phone number: +972559391239
+    Name: רים חביבתי  Phone number: +972559391239
+    Name: רים חביבתי  Phone number: +972559391239
+    Name: תססססה  Phone number: 052-275-0168
+    Name: תססססה  Phone number: 052-275-0168
+    Name: احمد هسعا  Phone number: 050-909-1253
+    Name: احمد هسعا  Phone number: 050-909-1253
+    Name: حلاق كفر قاسم  Phone number: +972506573556
+    Name: حلاق كفر قاسم  Phone number: +972506573556
+    Name: حمودي تتر  Phone number: 054-247-8881
+    Name: حمودي تتر  Phone number: 054-247-8881
+    Name: داليا  Phone number: 054-457-4497
+    Name: داليا  Phone number: 054-457-4497
+    Name: دالياااا  Phone number: 054-457-4933
+    Name: دالياااا  Phone number: 054-457-4933
+    Name: سيف جيوسي  Phone number: 054-341-8445
+    Name: سيف جيوسي  Phone number: 054-341-8445
+    Name: محمد الحلاق  Phone number: 053-938-2756
+    Name: محمد الحلاق  Phone number: 053-938-2756
+    Name: محمد حجله  Phone number: 050-215-0507
+    Name: محمد حجله  Phone number: 050-215-0507
+    Name: منى بنت عمتي  Phone number: 050-222-7170
+    Name: منى بنت عمتي  Phone number: 050-222-7170
+    Name: يوسف عبد الغافر  Phone number: +972546631555
+    Name: يوسف عبد الغافر  Phone number: +972546631555
+    Name: * הבידור 25*  Phone number: *25
+    Name: * החרדית 44*  Phone number: *44
+    Name: * הכלכלה 12*  Phone number: *12
+    Name: * המידע 24*  Phone number: *24
+    Name: * הספורט 15*  Phone number: *15
+    Name: * הערבית 55*  Phone number: *55
+    Name: Buzaglo  Phone number: 052-520-1644
+    Name: Chicken  Phone number: +972502851280
+    Name: Cyber  Phone number: 054-219-9665
+    Name: Granny  Phone number: +972542854606
+    Name: Habush  Phone number: +972524625172
+    Name: Hamza  Phone number: +972543937937
+    Name: Hosni  Phone number: 054-253-5254
+    Name: Lala  Phone number: 053-771-5930
+    Name: Mussab  Phone number: +972528218748
+    Name: Rabi  Phone number: 050-923-4514
+    Name: Seed  Phone number: +972538238818
+    Name: Sivan Kaspi  Phone number: 052-521-6334
+    Name: Sleman  Phone number: +972558814124
+    Name: אאא  Phone number: +972505359865
+    Name: אבראהים ניס  Phone number: 053-919-7585
+    Name: אדהם גורון  Phone number: 052-601-7698
+    Name: אחמד עבודה  Phone number: 050-333-5944
+    Name: איוב אבו זר  Phone number: 050-799-0224
+    Name: אימד סרפי  Phone number: 054-266-1012
+    Name: איסם  Phone number: +972529530507
+    Name: איסר בחירי  Phone number: +97233745605
+    Name: אם עודאי  Phone number: 050-548-4287
+    Name: אמא  Phone number: 050-622-2806
+    Name: אתיר טירה  Phone number: +972526229091
+    Name: בותינה  Phone number: +972522032337
+    Name: גיל לוי  Phone number: +972505917678
+    Name: ד"ר ווסים ראבי רופא שיניים  Phone number: +972542226027
+    Name: ד"ר ווסים ראבי רופא שיניים  Phone number: +972542226027
+    Name: ד"ר ווסים ראבי רופא שיניים  Phone number: +972542226027
+    Name: ויזא  Phone number: 1604
+    Name: ויזא 2  Phone number: 3318
+    Name: זזסז  Phone number: 055-251-9943
+    Name: חמודי עראר  Phone number: +972504241964
+    Name: יסמין  Phone number: 054-538-0720
+    Name: כובי  Phone number: 054-675-5097
+    Name: לבנאי  Phone number: 054-777-9534
+    Name: לית יונס  Phone number: 052-701-6184
+    Name: מחמד גאבר  Phone number: 052-878-4050
+    Name: ממדוח ענטר  Phone number: 054-291-2142
+    Name: סאהר עאסי  Phone number: 050-230-8761
+    Name: עבדללה חטיב  Phone number: +972526596510
+    Name: עדן  Phone number: 050-226-6470
+    Name: עלאא גיוסי  Phone number: +972542797000
+    Name: עלי ניס  Phone number: 050-447-7845
+    Name: פואד בחירי  Phone number: +972526856705
+    Name: קאקא  Phone number: 052-727-7280
+    Name: קרם  Phone number: 052-598-1098
+    Name: רביע חגלה  Phone number: 054-877-7881
+    Name: שלומו  Phone number: +972543138453
+    Name: שליח דואר  Phone number: +972507427888
+    Name: תא קולי  Phone number: +972522999080
+    Name: תאמר עאסי  Phone number: 050-222-3561
+    Name: اباي عرار  Phone number: 050-765-3323
+    Name: ابراهيم تركيا  Phone number: 009-053-59214999
+    Name: ابراهيم حيفا  Phone number: 054-957-4089
+    Name: ابراهيم قاضي  Phone number: 054-307-2119
+    Name: ابراهيم نيص  Phone number: +972528072160
+    Name: ابهاب حجله  Phone number: +972523530970
+    Name: ابو حسني  Phone number: 052-274-4016
+    Name: احمد اونالاين  Phone number: 058-773-2224
+    Name: اخوي  Phone number: +972522324413
+
+Files: 
+   File:/storage/emulated/0/Music/.thumbnails/.database_uuid
+   File:/storage/emulated/0/Music/.thumbnails/.nomedia
+   File:/storage/emulated/0/Pictures/.thumbnails/.database_uuid
+   File:/storage/emulated/0/Pictures/.thumbnails/.nomedia
+   File:/storage/emulated/0/Pictures/.thumbnails/41.jpg
+   File:/storage/emulated/0/Pictures/.thumbnails/42.jpg
+   File:/storage/emulated/0/Pictures/.thumbnails/43.jpg
+   File:/storage/emulated/0/Pictures/.thumbnails/44.jpg
+   File:/storage/emulated/0/Movies/.thumbnails/.database_uuid
+   File:/storage/emulated/0/Movies/.thumbnails/.nomedia
+   File:/storage/emulated/0/Download/c024u4bs59i61.jpg
+   File:/storage/emulated/0/Download/hqdefault.jpg
+   File:/storage/emulated/0/Download/mizuri-official-noirspiderman.jpg
+   File:/storage/emulated/0/Download/21372476_476615019386068_2464060696636162048_a.jpg
+   File:/storage/emulated/0/Download/contacts.vcf
+   File:/storage/emulated/0/Download/contacts (1).vcf
